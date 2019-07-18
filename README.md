@@ -11,7 +11,7 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 
 
 ## Basic Analysis
- - focus on  `orders`, `customers`, `payments`, `products` and `reviews` datasets.  
+ - Focus on  `orders`, `customers`, `payments`, `products` and `reviews` datasets.  
     * Analysis by Purchase Period
     * Analysis by Customer State
     * Analysis by Payment Type
