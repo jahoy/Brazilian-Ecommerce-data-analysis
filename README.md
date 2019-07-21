@@ -23,7 +23,7 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 ## Customer Review Analysis  
 **Try to extract value from customer reviews**
  
-### Summary: 
+**Summary**: 
 Olist's customers(review score=5) enjoy about their experience:
 * Fast delivery ('chegou antes prazo', 'entrega rapida', 'entregue antes prazo', 'super rapida')
 * High quality goods ('produto otima qualidade', 'otimo produto', 'produto excelente', 'produto boa qualidade')
