@@ -21,7 +21,7 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
     * Analysis by Review Score
 
 ## Customer Review Analysis  
-**Try to extract value from customer reviews**
+**Try to extract value from customer reviews Using NLP(Natural Language Processing) Technique**
  
 **Summary**:   
 Olist's customers(review score=5) enjoy about their experience:  
