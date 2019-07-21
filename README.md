@@ -19,3 +19,23 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
     * Analysis by Payment Type
     * Analysis by Product Categories
     * Analysis by Review Score
+
+## Customer Review Analysis
+ - Try to extract value from customer reviews
+ 
+### Summary: 
+Olist's customers(review score=5) enjoy about their experience:
+* Fast delivery ('chegou antes prazo', 'entrega rapida', 'entregue antes prazo', 'super rapida')
+* High quality goods ('produto otima qualidade', 'otimo produto', 'produto excelente', 'produto boa qualidade')
+* Good packaging ('bem embalado', 'produto chegou bem')
+
+Olist's customers(review score=1)were dissatisfied with their experience:
+* They received the wrong goods ('recebi produto errado', 'produto veio errado', 'produto totalmente diferente')
+* Some customers received fake items('produto nao original')
+* People rate seller's customer service badly, which seems to be unresponsive in some cases
+* Some people didn't receive their invoices
+
+From Clusting Techinque:
+We can see that the delivery time is very important for the customers. Good reviews that shows compliments and contentment mainly related to the early delivery of the products. On the other hand, Bad reviews shows discontentment about delays in delivery and in some cases the wrong product beeing delivered but the delays still are majority.
+
+This shows that the delivery is something that the seller have to pay extra attention, always looking for a transporter that has low rate of delay and in most cases delivery early than the estimated.
