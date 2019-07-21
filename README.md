@@ -20,8 +20,8 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
     * Analysis by Product Categories
     * Analysis by Review Score
 
-## Customer Review Analysis
- - Try to extract value from customer reviews
+## Customer Review Analysis  
+**Try to extract value from customer reviews**
  
 ### Summary: 
 Olist's customers(review score=5) enjoy about their experience:
