@@ -39,7 +39,7 @@ From Clusting Techinque:
 We can see that the delivery time is very important for the customers. Good reviews that shows compliments and contentment mainly related to the early delivery of the products. On the other hand, Bad reviews shows discontentment about delays in delivery and in some cases the wrong product beeing delivered but the delays still are majority.
 
 ## Modeling Customer Churn Risk and Future Purchases
-**The primary goal of this work is to build a probabilistic model for forecasting customer lifetime value(Future Purchases) and customer churn risk in non-contractual setting on an individual level.**
+**The primary goal of this work is to build a probabilistic model(`BG/NBD model`) for forecasting customer lifetime value(Future Purchases) and customer churn risk in non-contractual setting on an individual level.**
 
 1. Distinguish active customers from inactive customers.
 2. Generate transaction forecasts for individual customers.
