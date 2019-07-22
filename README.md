@@ -46,7 +46,7 @@ We can see that the delivery time is very important for the customers. Good revi
 3. Predict the purchase volume of the entire customer base.
 4. Predict customer churn risk
 
-**Summary**  
+**Summary:**  
 I have these churn groupings, we can move forward and apply special treatments to these groups.  
 `churned`: 1928(number of churned)  
 `high risk`: 84(number of high risk)  
