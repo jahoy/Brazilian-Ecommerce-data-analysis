@@ -47,11 +47,10 @@ We can see that the delivery time is very important for the customers. Good revi
 4. Predict customer churn risk
 
 **Summary**  
-I made successful model for prediciting customer life time values.
-and I have these churn groupings, we can move forward and apply special treatments to these groups.  
-churned: 1928(number of churned)  
-high risk: 84(number of high risk)  
-not churned: 73(number of not churned)  
-1) Reach out to churned customers to figure out why they left.
-2) Send different types of targeted emails and special offers to the high risk group.
-3) Determine the the highest value customers in the non-churn group, and serve them additional benefits to ensure that they remain loyal customers(VIP).
+I have these churn groupings, we can move forward and apply special treatments to these groups.  
+`churned`: 1928(number of churned)  
+`high risk`: 84(number of high risk)  
+`not churned`: 73(number of not churned)  
+**1) Reach out to churned customers to figure out why they left.**
+**2) Send different types of targeted emails and special offers to the high risk group.**
+**3) Determine the the highest value customers in the non-churn group, and serve them additional benefits to ensure that they remain loyal customers(VIP).**
