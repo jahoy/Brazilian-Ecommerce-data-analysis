@@ -38,3 +38,20 @@ Olist's customers(review score=1)were dissatisfied with their experience:
 From Clusting Techinque:  
 We can see that the delivery time is very important for the customers. Good reviews that shows compliments and contentment mainly related to the early delivery of the products. On the other hand, Bad reviews shows discontentment about delays in delivery and in some cases the wrong product beeing delivered but the delays still are majority.
 
+## Modeling Customer Churn Risk and Future Purchases
+**The primary goal of this work is to build a probabilistic model for forecasting customer lifetime value(Future Purchases) and customer churn risk in non-contractual setting on an individual level.**
+
+1. Distinguish active customers from inactive customers.
+2. Generate transaction forecasts for individual customers.
+3. Predict the purchase volume of the entire customer base.
+4. Predict customer churn risk
+
+**Summary**
+I made successful model for prediciting customer life time values.
+and I have these churn groupings, we can move forward and apply special treatments to these groups.
+churned: 1928(number of churned)
+high risk: 84(number of high risk)
+not churned: 73(number of not churned)
+1) Reach out to churned customers to figure out why they left.
+2) Send different types of targeted emails and special offers to the high risk group.
+3) Determine the the highest value customers in the non-churn group, and serve them additional benefits to ensure that they remain loyal customers(VIP).
