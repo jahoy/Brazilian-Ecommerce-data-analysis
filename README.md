@@ -64,23 +64,17 @@ Olist’s marketing team have 2 main objectives:
 **The scope of this analysis focuses more on the seller side (B2B) of Olist that can bring some helpful insights into Olist’s B2B marketing team.**
 
 <img width="680" alt="Screen Shot 2019-07-22 at 9 04 03 PM" src="https://user-images.githubusercontent.com/50973416/61720470-ccdebc80-ada1-11e9-864f-4aafbdc5b697.png">
-**1) Marketing Channel Effectiveness**    
-**2) Sales Performance Overview**    
-**3) Closed Deal Performance Overview**
 
 **Summary:**  
 **1) Marketing Channel Effectiveness**   
-* The majority of MQLs come from organic_search channel.
-* Paid search is the second biggest contributor to lead generation after 'organic search'.
-* The third one is 'social' which acquired MQLs more than or similar to 'paid search' since April 2018.
-* If the marginal cost of paid search increases, it would be possible to examine effectiveness of 'social' as an alternative.
-**2) Sales Performance**   
+* The majority of MQLs come from organic_search channel. Continue to work on SEO/Events to increase organic traffic
+* If the marginal cost of paid search increases, it would be possible to examine effectiveness of 'social' as an alternative.  
+**2) Sales Performance**     
 * Both conversion rate and sales length were improved in 2018 against 2017.
-* conversion rate of wolf (accuracy-focused) or shark (result-focused) was lower than cat (cooperation-focused) or eagle (relationship-focused). If so, sales performance could be improved by matching SDRs/SRs with MQLs properly.
-**3) Closed Deal Performance Overview**
-*  The biggest segment was 'watches', which generated 17.4% of total revenues.
-* 'watches_gifts' category generated 79.7% of total revenue of segment.Though 'watches' segment is the largest part of revenue, it has only two sellers.
-* 'watches_gifts' revenue soared in March and reached its peak in May. This category seems a seasonal item.
-*  'watches_gifts' may be a relatively homogeneous market so securing popular items is more important than pursuing a broad range of products. It implies that a category leader should be acquired to boost category revenue.
+* Leads are steadiness type. Olist can build customer persona around these type of people and crafting messaging/content to target these people.  
+
+**3) Closed Deal Performance Overview**  
+* The biggest segment was 'watches', which generated 17.4% of total revenues.
+* Sport leisure and watches segment can be developed more because Olist can capture high revenue from them
 
 
