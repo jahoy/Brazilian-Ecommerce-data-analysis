@@ -67,14 +67,15 @@ Olist’s marketing team have 2 main objectives:
 
 **Summary:**  
 **1) Marketing Channel Effectiveness**   
-* The majority of MQLs come from organic_search channel. Continue to work on SEO/Events to increase organic traffic
-* If the marginal cost of paid search increases, it would be possible to examine effectiveness of 'social' as an alternative.  
++ The majority of MQLs come from organic_search channel. Continue to work on SEO/Events to increase organic traffic
++ If the marginal cost of paid search increases, it would be possible to examine effectiveness of 'social' as an alternative. 
+
 **2) Sales Performance**     
-* Both conversion rate and sales length were improved in 2018 against 2017.
-* Leads are steadiness type. Olist can build customer persona around these type of people and crafting messaging/content to target these people.  
++ Both conversion rate and sales length were improved in 2018 against 2017.
++ Leads are steadiness type. Olist can build customer persona around these type of people and crafting messaging/content to target these people.  
 
 **3) Closed Deal Performance Overview**  
-* The biggest segment was 'watches', which generated 17.4% of total revenues.
-* Sport leisure and watches segment can be developed more because Olist can capture high revenue from them
++ The biggest segment was 'watches', which generated 17.4% of total revenues.
++ Sport leisure and watches segment can be developed more because Olist can capture high revenue from them
 
 
