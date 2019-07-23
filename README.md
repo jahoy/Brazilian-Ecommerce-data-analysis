@@ -57,10 +57,7 @@ I have these churn groupings, we can move forward and apply special treatments t
 
 
 ## Seller Side Data Analysis
-Olist’s marketing team have 2 main objectives:
-- From the seller side, they want to increase the number of merchants using Olist platform.
-- From the buyer side, they want to maximize the e-commerce sales of the merchants on these marketplaces.
-
+From the seller side, Olist’s marketing team want to increase the number of merchants using Olist platform.
 **The scope of this analysis focuses more on the seller side (B2B) of Olist that can bring some helpful insights into Olist’s B2B marketing team.**
 
 <img width="680" alt="Screen Shot 2019-07-22 at 9 04 03 PM" src="https://user-images.githubusercontent.com/50973416/61720470-ccdebc80-ada1-11e9-864f-4aafbdc5b697.png">
