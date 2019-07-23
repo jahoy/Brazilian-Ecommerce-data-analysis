@@ -64,7 +64,7 @@ From the seller side, Olist’s marketing team want to increase the number of me
 
 **Summary:**  
 **1) Marketing Channel Effectiveness**   
-+ The majority of MQLs come from organic_search channel. Continue to work on SEO/Events to increase organic traffic
++ The majority of MQLs(Marketing Qualified Leads) come from organic_search channel. Continue to work on SEO/Events to increase organic traffic
 + If the marginal cost of paid search increases, it would be possible to examine effectiveness of 'social' as an alternative. 
 
 **2) Sales Performance**     
